@@ -1,38 +1,31 @@
-# food-fest-ticket-landing-page
+# Food Fest Ticket Landing Page
 
-This template should help get you started developing with Vue 3 in Vite.
+**Trainee:** Nonhlanhla Kunene
+**Programme:** YouthCode On-Site — Cohort 18, 2026
+**Course:** Course 1 — Frontend Web Development
 
-## Recommended IDE Setup
+## Project Overview
+A responsive Vue.js single-page landing application for Cape Town Food Fest — an annual outdoor food festival. The page showcases ticket tiers (Bronze, Silver, Gold) in a visually appealing, component-based layout and allows users to favourite a ticket tier.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Features
+- Ticket tiers displayed as reusable cards
+- Featured tier highlighted visually
+- Favourite functionality with icon toggle
+- Responsive layout for desktop and mobile
 
-## Recommended Browser Setup
+## Tech Stack
+- Vue 3 (Vite)
+- JavaScript
+- HTML5
+- CSS3
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## Installation and Run Instructions
+1. Clone the repository
+2. Navigate into the project folder
+3. Run `npm install`
+4. Run `npm run dev`
+5. Open your browser and go to the local address shown in the terminal
 
-## Customize configuration
+## Screenshots
+<img width="1911" height="886" alt="Screenshot 2026-06-25 094807" src="https://github.com/user-attachments/assets/f6adce89-66bd-4553-8c5e-29b1fc449d43" />
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
